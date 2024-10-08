@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 31,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -74,7 +74,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "epi_ESP32 (2023_01_16 13_30_41 UTC).kicad_prl",
+    "filename": "epi_ESP32_PD.kicad_prl",
     "version": 3
   },
   "project": {
