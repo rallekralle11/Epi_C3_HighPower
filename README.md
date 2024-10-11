@@ -3,3 +3,5 @@ Very narrow ESP32 dev board with high-power switching capabilities as well as US
  
 
 ![pic](extra/epi_ESP32_PD.jpg)
+
+<img src="extra/epi_ESP32_PD.jpg" alt="pic" style="transform: rotate(180deg);">
